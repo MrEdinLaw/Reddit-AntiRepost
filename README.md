@@ -21,9 +21,3 @@ for reddit API
 
 # ToDo
 * Add Text submission tracking
-
-# Support Me 
-
-If you feel generous to support my work here are some links:
-http://www.paypal.me/mredinlaw
-https://www.patreon.com/mredinlaw
